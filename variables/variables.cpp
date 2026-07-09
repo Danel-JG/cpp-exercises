@@ -1,4 +1,4 @@
-//data types in cpp
+//basic data types in cpp
 #include <iostream>
 
 using namespace std;
